@@ -1,0 +1,7 @@
+{
+  "name": "atinotes-cf-5",
+  "compatibility_date": "2025-09-14",
+  "kv_namespaces": [
+    { "binding": "KV","id": "d5559de242214374a17bbef9fff0eb9e" }
+  ]
+}
